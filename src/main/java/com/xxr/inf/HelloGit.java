@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("Hello Git World!");
         System.out.println("push commit test");
         System.out.println("pull commit test");
+        System.out.println("github update commit test");
     }
 }
